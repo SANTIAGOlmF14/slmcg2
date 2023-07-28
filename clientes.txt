@@ -1,0 +1,12 @@
+Nombre: santiago
+Teléfono: 111111111
+Correo: san@gmail.com
+Código: 222222
+Edad: 20
+-----------------------------
+Nombre: juan
+Teléfono: 2222222222
+Correo: juan@gmail.com
+Código: 333333
+Edad: 19
+-----------------------------
