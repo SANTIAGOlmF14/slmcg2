@@ -84,7 +84,7 @@ public class Persona {
 
     @Override
     public String toString() {
-        return "Persona{" + "nombreP=" + nombreP + ", telefonoP=" + telefonoP + ", correoP=" + correoP + '}';
+        return "Persona{" + nombreP + "," + telefonoP + "," + correoP + '}';
     }
 
 }
